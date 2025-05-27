@@ -1,0 +1,2 @@
+C:\Users\samyb\Downloads\BTS_Habilitations2024Devoir-master\BTS_Habilitations2024Devoir-master\habilitations2024Tests\obj\Debug\habilitations2024Tests.csproj.AssemblyReference.cache
+C:\Users\samyb\Downloads\BTS_Habilitations2024Devoir-master\BTS_Habilitations2024Devoir-master\habilitations2024Tests\obj\Debug\habilitations2024Tests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+C:\Users\samyb\Downloads\BTS_Habilitations2024Devoir-master\BTS_Habilitations2024Devoir-master\habilitations2024\obj\Debug\habilitations2024.csproj.AssemblyReference.cache
+C:\Users\samyb\Downloads\BTS_Habilitations2024Devoir-master\BTS_Habilitations2024Devoir-master\habilitations2024\obj\Debug\habilitations2024.Properties.Resources.resources
+C:\Users\samyb\Downloads\BTS_Habilitations2024Devoir-master\BTS_Habilitations2024Devoir-master\habilitations2024\obj\Debug\habilitations2024.view.FrmHabilitations.resources
+C:\Users\samyb\Downloads\BTS_Habilitations2024Devoir-master\BTS_Habilitations2024Devoir-master\habilitations2024\obj\Debug\habilitations2024.csproj.GenerateResource.cache
+C:\Users\samyb\Downloads\BTS_Habilitations2024Devoir-master\BTS_Habilitations2024Devoir-master\habilitations2024\obj\Debug\habilitations2024.csproj.CoreCompileInputs.cache
